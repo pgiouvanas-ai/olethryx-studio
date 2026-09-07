@@ -6,10 +6,13 @@
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-ink: #05070D;
+  --color-panel: #0A0D16;
+  --color-panel-line: #A0A8BE;
+  --color-bone: #E8EAF0;
+  --color-blue: #7FA6FF;
+  --color-violet: #B388FF;
+  --color-green: #6FA98C;
 }
 
 @media (prefers-color-scheme: dark) {
